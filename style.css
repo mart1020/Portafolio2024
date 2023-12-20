@@ -1055,12 +1055,12 @@ footer{
 
 
             #sobreMi_img_nubes{
-                scale: 90%;
+                scale: 75%;
             }
 
             #sobreMi_img_fotoPerfil{
                 
-                scale: 75%;
+                scale: 73%;
             }
 
 
@@ -1095,7 +1095,7 @@ footer{
                 
                 margin-right: 200px;
 
-                margin-left: 150px;
+                margin-left: 130px;
             
                 
             }
@@ -1151,6 +1151,33 @@ footer{
 
     display: block;
 }
+
+/*------------------------------------------------------------------------------------*/
+/*------FOOTER------------------------------------------------------------------------------*/
+/*------------------------------------------------------------------------------------*/
+footer{
+    background-color: #4412a8;
+    padding: 50px;
+}
+
+#footer_img{
+
+    display: none;
+    
+    
+}
+
+#footer_titulo{
+
+    color: white;
+    margin-left: 60px;
+    
+    
+
+}
+        
+
+    }
   
 
     }
